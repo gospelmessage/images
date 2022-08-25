@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.993" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2aabee"/>
+      <stop offset="1" stop-color="#229ed9"/>
+    </linearGradient>
+    <clipPath id="clip-Telegram_Logo_68_68">
+      <rect width="68" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="Telegram_Logo_68_68" data-name="Telegram_Logo_68*68" clip-path="url(#clip-Telegram_Logo_68_68)">
+    <rect id="矩形_10" data-name="矩形 10" width="68" height="68" fill="none"/>
+    <g id="Telegram_Logo">
+      <circle id="Oval" cx="34" cy="34" r="34" fill="url(#linear-gradient)"/>
+      <path id="Path-3" d="M191.538,314.173q14.868-6.478,19.828-8.541c9.442-3.927,11.4-4.61,12.683-4.632a2.236,2.236,0,0,1,1.318.4,1.432,1.432,0,0,1,.484.921,6,6,0,0,1,.057,1.338c-.512,5.376-2.726,18.423-3.852,24.444-.477,2.548-1.415,3.4-2.324,3.486-1.974.182-3.474-1.3-5.386-2.558-2.992-1.962-4.683-3.183-7.588-5.1-3.357-2.212-1.181-3.428.732-5.415.5-.52,9.2-8.433,9.368-9.151a.694.694,0,0,0-.158-.6.783.783,0,0,0-.7-.068q-.45.1-14.341,9.479a6.455,6.455,0,0,1-3.687,1.362,24.264,24.264,0,0,1-5.285-1.251c-2.129-.692-3.822-1.058-3.674-2.234Q189.124,315.133,191.538,314.173Z" transform="translate(-176.148 -280.532)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
